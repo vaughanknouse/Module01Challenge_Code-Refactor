@@ -17,8 +17,13 @@ Throughout this project I learned the significance of web accessibility and how 
 Copy of refactored code from an existing site as requested by a marketing agency in order to improve the code so that it may be more accessible without changing what the code does. 
 
 
+  C:\codingbootcamp\Challenges\Module01Challenge_Code-Refactor\assets\images\!Challenge 1 Code Usage Image.png
   
-  
+  ![ScreenShot]!Challenge 1 Code Usage Image.png
+
+  Module01Challenge_Code-Refactor\assets\images\!Challenge 1 Code Usage Image.png
+
+
 
 ## Credits
 
